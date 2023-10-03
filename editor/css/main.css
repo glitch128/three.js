@@ -346,6 +346,7 @@ select {
 		float: left;
 		cursor: pointer;
 		padding-right: 8px;
+		app-region: no-drag;
 	}
 
 	#menubar .menu.right {
